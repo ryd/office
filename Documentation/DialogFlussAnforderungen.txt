@@ -1,0 +1,90 @@
+office requirement dialogs
+
+Anmelden Dialog
+- Dashboard
+- falsche Passwort
+* gueltigen benutzer
+* gueltiges Passwort
+
+
+falsche Passwort
+- zurueck zum Anmelden Dialog
+
+Dashboard
+- Logout
+- Neue Mitglieder
+- Mitglieder Suchen
+- Zahlungen einpflegen
+- Neue DS Abonenten
+- Mitgliedsdaten von Erfa Importieren
+- Cron Jobs
+- Exports
+- Optionen
+- Key updaten
+- Benutzerverwaltung
+- Dokumentation/Hilfe
+- Stats/Infos 
+* gueltige Session
+
+Logout
+- Anmelden Dialog
+- Warten Dialog
+* keine offenen Jobs
+
+Warten Dialog
+- zurueck zum Logout
+* keine offenen Jobs
+
+Neue Mitglieder
++ eingabe maske fuer neue Miglieder
++ Checkbox fuer Mail Quere
+- Abbrechen und zurueck zu Dashboard
+- Speicher und zurueck zu Dashboard
+- Speichern und Neue Mitglieder Dialog
+* Person darf nicht bereits existieren
+* eindeutige Chaosnummer
+* Daten muessen gueltig sein
+
+Mitglieder Suchen
++ Keyword Search
++ Feldmaske
+- Mitglied bearbeiten (bei einen Ergebnis)
+- Mitgliederlist (bei mehreren Ergebnissen)
+- Ohne Ergebnis - zurueck zur Suchmaske
+- Suche Abbrechen - Dashboard
+* Ergebnisse finden
+
+Mitglied bearbeiten
+- Abbrechen - zurueck zur Suche
+- Speichern - zum Dashboard
+* valides Mitglied
+* valide Daten
+
+Speichern
+- Persistent hinterlegen
+- Email Quere bei bedarf fuellen
+* valides Daten
+* Daten speichern koennen
+
+Mitgliederliste
+- Mitglied bearbeiten
+- zurueck zur Suche
+* valide Suchedaten
+
+Zahlungen einpflegen
+- Import von Listen
+* liste
+
+Import von Liste
+- Import Kontodaten (CSV)
+- Import Datenschleuder (Plain/CSV)
+- Import Erfa Import (CSV)
+* valide Daten
+
+Import Kontodaten
++ Scrollliste Mit Ergebnissen + Zuordnung
+-
+
+
+
+
